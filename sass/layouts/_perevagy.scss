@@ -2,12 +2,12 @@
     padding-top: 94px;
 }
 
-.perevagy-list {
+.perevagy__list {
     display: flex;
     gap: 30px;
 }
 
-.perevagy-box {
+.perevagy__box {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@
     margin-bottom: 30px;
 }
 
-.perevagy-title {
+.perevagy__title {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -27,7 +27,7 @@
     margin-bottom: 10px;
 }
 
-.perevagy-about {
+.perevagy__about {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
